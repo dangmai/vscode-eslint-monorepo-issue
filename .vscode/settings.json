@@ -1,0 +1,11 @@
+{
+  "eslint.debug": true,
+  // "eslint.options": {
+  //   "overrideConfigFile": ".eslintrc.custom.js"
+  // },
+  "eslint.workingDirectories": [
+    {
+      "pattern": "packages/*"
+    }
+  ]
+}
